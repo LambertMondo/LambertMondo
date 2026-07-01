@@ -24,9 +24,9 @@ Right now, my biggest focus is **CamerInd**, an AI-powered recruiting platform I
 
 I am deeply interested in agentic systems, offline-first software, and secure automation. For me, a system is only good if it survives real-world constraints: spotty internet, limited mobile devices, operational complexity, and strict budgets. I build for the context that exists, not an idealized scenario.
 
-## How I build
+## How I think about modern Software Engineering
 
-> **Useful before impressive. Reliable before clever.**
+> **Think useful before impressive, Reliable before clever.**
 
 1. **AI should be structural, not decorative.** It needs to fundamentally change what a product can do, not just sit on the side as a flashy chatbot.
 2. **Security is code, not just a prompt.** LLMs are great for logic, but authorization and strict data boundaries belong in hard code. 
@@ -34,8 +34,7 @@ I am deeply interested in agentic systems, offline-first software, and secure au
 4. **Context dictates architecture.** I default to local-first when resilience matters, and cloud-ready when scale is the priority.
 5. **Design is engineering.** A feature isn't finished until a user trusts it, understands it, and can act on it seamlessly.
 
-## My toolkit
-
+## My toolkit History
 | Area | Technologies |
 |---|---|
 | **Mobile & Interfaces** | Flutter, Dart, React, Next.js, Vite|
@@ -46,19 +45,17 @@ I am deeply interested in agentic systems, offline-first software, and secure au
 | **Security** | Zero-trust architecture, JWT, Bcrypt, Argon2id, RBAC|
 | **Exploration** | Python, Tauri, Nostr, WireGuard, RAG, self-hosted AI workflows |
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,nestjs,supabase,postgres,redis,firebase,docker,git,github,linux,python" alt="Technology stack" />
-</p>
 
-## Selected projects
+## Revelant projects
 
 | Project | What it is | Core Stack |
 |---|---|---|
-| **[Kanjad](https://kanjad.cm)** | Crafted a modern E-commerce platform with integrated CRM built from scratch | Flutter, Supabase, CinetPay |
-| **[CamerInd](https://www.camerind.com)** | Reimagining the employment ecosystem in Cameroon with AI-driven matching for candidates and companies. | Flutter, Supabase, Redis, BullMQ, LLM agents , Notch pay|
+| **[Kanjad](https://kanjad.cm)** | A modern E-commerce solution with integrated CRM built from scratch to manage everything in details. | Flutter, Supabase, CinetPay |
+| **[CamerInd](https://www.camerind.com)** | Reimagining the employment ecosystem in Cameroon with AI-driven matching for candidates and companies powered by AI. | Flutter, Supabase, Redis, BullMQ, LLM agents , Notch pay|
 | **[IkoChess](https://github.com/LambertMondo/ikochess)** | A Telegram-native multiplayer chess experience with authoritative real-time gameplay and Stockfish integration. | React, Node.js, Socket.IO, Supabase, Redis |
 | **[Zero-Trust Bot Security](https://github.com/LambertMondo/zero-trust-bot-security)** | A five-layer security contract that forces AI agents to respect authorization gates and tool policies. | SQL, Auth gates, Quotas, Output guards |
-| **CEGEST 2026** (Private) | An offline-first church management system built for resilient synchronization and data safety. | Next.js, TypeScript, RxDB, Dexie, Supabase |
+| **CEGEST 2026** (Private) | An offline-first church management system Migrated from Migcrosoft Access with a focus on both off-line first strategy and online synchronisation. | Next.js, TypeScript, RxDB, Dexie, Supabase |
 | **[Affiche ton scammer](https://affiche-ton-scammer.web.app)**  | A community-driven mobile app for reporting, tracking, and identifying local scams. | Flutter, Firebase (Auth, Firestore, Messaging) |
 
 ## What I'm exploring lately
