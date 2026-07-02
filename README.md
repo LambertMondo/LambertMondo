@@ -55,7 +55,7 @@ I am deeply interested in agentic systems, offline-first software, and secure au
 | **[CamerInd](https://www.camerind.com)** | Reimagining the employment ecosystem in Cameroon with AI-driven matching for candidates and companies powered by AI. | Flutter, Supabase, Redis, BullMQ, LLM agents , Notch pay|
 | **[IkoChess](https://github.com/LambertMondo/ikochess)** | A Telegram-native multiplayer chess experience with authoritative real-time gameplay and Stockfish integration. | React, Node.js, Socket.IO, Supabase, Redis |
 | **[Zero-Trust Bot Security](https://github.com/LambertMondo/zero-trust-bot-security)** | A five-layer security contract that forces AI agents to respect authorization gates and tool policies. | SQL, Auth gates, Quotas, Output guards |
-| **CEGEST 2026** (Private) | An offline-first church management system Migrated from Migcrosoft Access with a focus on both off-line first strategy and online synchronisation. | Next.js, TypeScript, RxDB, Dexie, Supabase |
+| **CEGEST 2026** (Private) | An offline-first church management system Migrated from Microsoft Access with a focus on both off-line first strategy and online synchronisation. | Next.js, TypeScript, RxDB, Dexie, Supabase |
 | **[Affiche ton scammer](https://affiche-ton-scammer.web.app)**  | A community-driven mobile app for reporting, tracking, and identifying local scams. | Flutter, Firebase (Auth, Firestore, Messaging) |
 
 ## What I'm exploring lately
